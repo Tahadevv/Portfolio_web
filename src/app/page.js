@@ -66,7 +66,7 @@ export default function Home() {
           </h1>
 
           <h2 className="text-[#555555] text-lg font-medium relative max-sm:text-sm max-sm:font-medium text-[]">
-          Hi, I'm Taha khan. A passionate MERN Full Stack 
+          Hi, I&apos;m Taha khan. A passionate MERN Full Stack 
           </h2>
           <h2 className="text-[#555555] max-sm:text-sm max-sm:font-medium text-lg font-medium relative">
           Developer based in Karachi, Pakistan. 📍
@@ -246,7 +246,7 @@ export default function Home() {
         </h2>
         <div className=" max-sm:hidden">
           <h1 className="text-xs mt-2 text-[#767676] font-bold ">
-          Hey, my name is Taha, and I'm a MERN Stack Mobile & App dev. My 
+          Hey, my name is Taha, and I&apos;m a MERN Stack Mobile & App dev. My 
           </h1>
           <h1 className="text-xs mt-0 font-bold text-[#767676]">
           passion is to create and develop a modern web and mobile applications.
@@ -255,7 +255,7 @@ export default function Home() {
         </div>
         <div className="  block sm:hidden max-sm:text-center max-sm:px-2">
           <h1 className="text-xs mt-2 text-[#767676] font-bold ">
-          Hey, my name is Taha, and I'm a MERN Stack Mobile & App dev. My passion is to create and develop a modern web and mobile applications.
+          Hey, my name is Taha, and I&apos;m a MERN Stack Mobile & App dev. My passion is to create and develop a modern web and mobile applications.
           </h1>
           
           
@@ -298,7 +298,7 @@ export default function Home() {
         </h1>
 
         <h1 className="text-[25px] my-4 font-bold text-[#2D2E32]">
-        Don't be shy! Hit me up! 👇
+        Don&apos;t be shy! Hit me up! 👇
         </h1>
 
         <div className="flex flex-row my-12 max-sm:flex-col">
